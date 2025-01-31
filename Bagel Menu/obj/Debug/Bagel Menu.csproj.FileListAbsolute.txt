@@ -1,0 +1,11 @@
+C:\Users\alvin\source\repos\Finals\Bagel Menu\bin\Debug\Bagel Menu.exe.config
+C:\Users\alvin\source\repos\Finals\Bagel Menu\bin\Debug\Bagel Menu.exe
+C:\Users\alvin\source\repos\Finals\Bagel Menu\bin\Debug\Bagel Menu.pdb
+C:\Users\alvin\source\repos\Finals\Bagel Menu\obj\Debug\Bagel Menu.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\Finals\Bagel Menu\obj\Debug\Bagel Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvin\source\repos\Finals\Bagel Menu\obj\Debug\Bagel_Menu.BakeryBagelForm.resources
+C:\Users\alvin\source\repos\Finals\Bagel Menu\obj\Debug\Bagel_Menu.Properties.Resources.resources
+C:\Users\alvin\source\repos\Finals\Bagel Menu\obj\Debug\Bagel Menu.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\Finals\Bagel Menu\obj\Debug\Bagel Menu.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\Finals\Bagel Menu\obj\Debug\Bagel Menu.exe
+C:\Users\alvin\source\repos\Finals\Bagel Menu\obj\Debug\Bagel Menu.pdb
