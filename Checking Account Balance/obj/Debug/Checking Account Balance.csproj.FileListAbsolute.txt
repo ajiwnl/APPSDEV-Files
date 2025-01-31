@@ -1,0 +1,22 @@
+Z:\Prelim\Checking Account Balance\bin\Debug\Checking Account Balance.exe.config
+Z:\Prelim\Checking Account Balance\bin\Debug\Checking Account Balance.exe
+Z:\Prelim\Checking Account Balance\bin\Debug\Checking Account Balance.pdb
+Z:\Prelim\Checking Account Balance\obj\Debug\Checking Account Balance.csproj.AssemblyReference.cache
+Z:\Prelim\Checking Account Balance\obj\Debug\Checking Account Balance.csproj.SuggestedBindingRedirects.cache
+Z:\Prelim\Checking Account Balance\obj\Debug\Checking_Account_Balance.CheckAcctBalanceForm.resources
+Z:\Prelim\Checking Account Balance\obj\Debug\Checking_Account_Balance.Properties.Resources.resources
+Z:\Prelim\Checking Account Balance\obj\Debug\Checking Account Balance.csproj.GenerateResource.cache
+Z:\Prelim\Checking Account Balance\obj\Debug\Checking Account Balance.csproj.CoreCompileInputs.cache
+Z:\Prelim\Checking Account Balance\obj\Debug\Checking Account Balance.exe
+Z:\Prelim\Checking Account Balance\obj\Debug\Checking Account Balance.pdb
+C:\Users\alvin\source\repos\Checking Account Balance\bin\Debug\Checking Account Balance.exe.config
+C:\Users\alvin\source\repos\Checking Account Balance\bin\Debug\Checking Account Balance.exe
+C:\Users\alvin\source\repos\Checking Account Balance\bin\Debug\Checking Account Balance.pdb
+C:\Users\alvin\source\repos\Checking Account Balance\obj\Debug\Checking Account Balance.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\Checking Account Balance\obj\Debug\Checking Account Balance.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvin\source\repos\Checking Account Balance\obj\Debug\Checking_Account_Balance.CheckAcctBalanceForm.resources
+C:\Users\alvin\source\repos\Checking Account Balance\obj\Debug\Checking_Account_Balance.Properties.Resources.resources
+C:\Users\alvin\source\repos\Checking Account Balance\obj\Debug\Checking Account Balance.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\Checking Account Balance\obj\Debug\Checking Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\Checking Account Balance\obj\Debug\Checking Account Balance.exe
+C:\Users\alvin\source\repos\Checking Account Balance\obj\Debug\Checking Account Balance.pdb
