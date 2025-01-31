@@ -1,0 +1,11 @@
+C:\Users\alvin\source\repos\AutoCarCenterForm\bin\Debug\AutoCarCenterForm.exe.config
+C:\Users\alvin\source\repos\AutoCarCenterForm\bin\Debug\AutoCarCenterForm.exe
+C:\Users\alvin\source\repos\AutoCarCenterForm\bin\Debug\AutoCarCenterForm.pdb
+C:\Users\alvin\source\repos\AutoCarCenterForm\obj\Debug\AutoCarCenterForm.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\AutoCarCenterForm\obj\Debug\AutoCarCenterForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvin\source\repos\AutoCarCenterForm\obj\Debug\AutoCarCenterForm.Form1.resources
+C:\Users\alvin\source\repos\AutoCarCenterForm\obj\Debug\AutoCarCenterForm.Properties.Resources.resources
+C:\Users\alvin\source\repos\AutoCarCenterForm\obj\Debug\AutoCarCenterForm.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\AutoCarCenterForm\obj\Debug\AutoCarCenterForm.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\AutoCarCenterForm\obj\Debug\AutoCarCenterForm.exe
+C:\Users\alvin\source\repos\AutoCarCenterForm\obj\Debug\AutoCarCenterForm.pdb
