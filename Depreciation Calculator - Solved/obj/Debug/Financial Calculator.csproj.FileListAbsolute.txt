@@ -1,0 +1,11 @@
+C:\Users\alvin\source\repos\Depreciation Calculator\bin\Debug\Financial Calculator.exe.config
+C:\Users\alvin\source\repos\Depreciation Calculator\bin\Debug\Financial Calculator.exe
+C:\Users\alvin\source\repos\Depreciation Calculator\bin\Debug\Financial Calculator.pdb
+C:\Users\alvin\source\repos\Depreciation Calculator\obj\Debug\Financial Calculator.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\Depreciation Calculator\obj\Debug\Financial Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvin\source\repos\Depreciation Calculator\obj\Debug\Financial_Calculator.Properties.Resources.resources
+C:\Users\alvin\source\repos\Depreciation Calculator\obj\Debug\Financial Calculator.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\Depreciation Calculator\obj\Debug\Financial Calculator.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\Depreciation Calculator\obj\Debug\Financial Calculator.exe
+C:\Users\alvin\source\repos\Depreciation Calculator\obj\Debug\Financial Calculator.pdb
+C:\Users\alvin\source\repos\Depreciation Calculator\obj\Debug\Financial_Calculator.DepreciationCalculator.resources
