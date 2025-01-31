@@ -1,4 +1,0 @@
-C:\Users\alvin\source\repos\Midterm\OOP-Set and Get\obj\Debug\OOP-Constructor.csproj.AssemblyReference.cache
-C:\Users\alvin\source\repos\Midterm\OOP-Set and Get\obj\Debug\OOP-Constructor.csproj.SuggestedBindingRedirects.cache
-C:\Users\alvin\source\repos\Midterm\OOP-Set and Get\obj\Debug\OOP-Set and Get.exe
-C:\Users\alvin\source\repos\Midterm\OOP-Set and Get\obj\Debug\OOP-Set and Get.pdb
