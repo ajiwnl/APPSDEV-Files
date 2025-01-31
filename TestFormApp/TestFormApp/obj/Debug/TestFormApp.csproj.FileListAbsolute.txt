@@ -1,0 +1,11 @@
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\bin\Debug\TestFormApp.exe.config
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\bin\Debug\TestFormApp.exe
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\bin\Debug\TestFormApp.pdb
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\obj\Debug\TestFormApp.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\obj\Debug\TestFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\obj\Debug\TestFormApp.TestFormApp.resources
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\obj\Debug\TestFormApp.Properties.Resources.resources
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\obj\Debug\TestFormApp.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\obj\Debug\TestFormApp.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\obj\Debug\TestFormApp.exe
+C:\Users\alvin\source\repos\TestFormApp\TestFormApp\obj\Debug\TestFormApp.pdb

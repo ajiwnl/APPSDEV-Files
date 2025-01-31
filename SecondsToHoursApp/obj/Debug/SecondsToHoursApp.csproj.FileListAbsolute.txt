@@ -1,0 +1,11 @@
+C:\Users\alvin\source\repos\SecondsToHoursApp\bin\Debug\SecondsToHoursApp.exe.config
+C:\Users\alvin\source\repos\SecondsToHoursApp\bin\Debug\SecondsToHoursApp.exe
+C:\Users\alvin\source\repos\SecondsToHoursApp\bin\Debug\SecondsToHoursApp.pdb
+C:\Users\alvin\source\repos\SecondsToHoursApp\obj\Debug\SecondsToHoursApp.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\SecondsToHoursApp\obj\Debug\SecondsToHoursApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvin\source\repos\SecondsToHoursApp\obj\Debug\SecondsToHoursApp.SecondsConverter.resources
+C:\Users\alvin\source\repos\SecondsToHoursApp\obj\Debug\SecondsToHoursApp.Properties.Resources.resources
+C:\Users\alvin\source\repos\SecondsToHoursApp\obj\Debug\SecondsToHoursApp.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\SecondsToHoursApp\obj\Debug\SecondsToHoursApp.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\SecondsToHoursApp\obj\Debug\SecondsToHoursApp.exe
+C:\Users\alvin\source\repos\SecondsToHoursApp\obj\Debug\SecondsToHoursApp.pdb
