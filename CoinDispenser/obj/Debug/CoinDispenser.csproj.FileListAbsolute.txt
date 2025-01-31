@@ -1,0 +1,11 @@
+C:\Users\alvin\source\repos\CoinDispenser\bin\Debug\CoinDispenser.exe.config
+C:\Users\alvin\source\repos\CoinDispenser\bin\Debug\CoinDispenser.exe
+C:\Users\alvin\source\repos\CoinDispenser\bin\Debug\CoinDispenser.pdb
+C:\Users\alvin\source\repos\CoinDispenser\obj\Debug\CoinDispenser.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\CoinDispenser\obj\Debug\CoinDispenser.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvin\source\repos\CoinDispenser\obj\Debug\CoinDispenser.CoinDispenserForm.resources
+C:\Users\alvin\source\repos\CoinDispenser\obj\Debug\CoinDispenser.Properties.Resources.resources
+C:\Users\alvin\source\repos\CoinDispenser\obj\Debug\CoinDispenser.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\CoinDispenser\obj\Debug\CoinDispenser.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\CoinDispenser\obj\Debug\CoinDispenser.exe
+C:\Users\alvin\source\repos\CoinDispenser\obj\Debug\CoinDispenser.pdb
