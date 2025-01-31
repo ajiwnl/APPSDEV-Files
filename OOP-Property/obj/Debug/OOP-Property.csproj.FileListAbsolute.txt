@@ -1,0 +1,11 @@
+C:\Users\alvin\source\repos\Midterm\OOP-Property\bin\Debug\OOP-Property.exe.config
+C:\Users\alvin\source\repos\Midterm\OOP-Property\bin\Debug\OOP-Property.exe
+C:\Users\alvin\source\repos\Midterm\OOP-Property\bin\Debug\OOP-Property.pdb
+C:\Users\alvin\source\repos\Midterm\OOP-Property\obj\Debug\OOP-Property.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\Midterm\OOP-Property\obj\Debug\OOP-Property.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvin\source\repos\Midterm\OOP-Property\obj\Debug\OOP_Property.Form1.resources
+C:\Users\alvin\source\repos\Midterm\OOP-Property\obj\Debug\OOP_Property.Properties.Resources.resources
+C:\Users\alvin\source\repos\Midterm\OOP-Property\obj\Debug\OOP-Property.csproj.GenerateResource.cache
+C:\Users\alvin\source\repos\Midterm\OOP-Property\obj\Debug\OOP-Property.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\Midterm\OOP-Property\obj\Debug\OOP-Property.exe
+C:\Users\alvin\source\repos\Midterm\OOP-Property\obj\Debug\OOP-Property.pdb
